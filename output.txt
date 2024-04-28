@@ -1,0 +1,2 @@
+{"TimeStamp":"2024-04-24","Message":" connection timeout while fetching data.","errorCounter":0}
+{"TimeStamp":"2024-04-24","Message":" connection timeout while fetching data.","errorCounter":1}

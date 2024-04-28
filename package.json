@@ -1,0 +1,12 @@
+{
+  "name": "errorlog",
+  "version": "1.0.0",
+  "description": "Filtering and Analyzing Log Files:**     - Use Python or Node.js to:         - Read lines from a log file.         - Filter entries based on keywords or error codes.         - Count occurrences of specific events or errors.         - Calculate basic statistics (e.g., number of successful operations, average response time).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
